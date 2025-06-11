@@ -12,9 +12,17 @@ body {
     display: grid;
 }
 
+td { 
+    padding: 1em;
+}
+
 .head {
     background-color: bisque;
     font-size: large;
     text-align: center;
 }
 
+.content {
+    width: 75%;
+
+}
