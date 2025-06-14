@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="styles.css"> 
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}"> 
         <title>Isha's Art Composition Blog</title>
     </head>
     
@@ -12,8 +12,12 @@
         <table>
             <tr>
                 <td class="content">
-                    {% block content %}
-                    {% endblock %}
+                    <h1>Posts</h1>
+                    {% for page in pages %}
+                        <div class="post">
+                            <a href="{{ url_for('show_page', title=page) }}">{{ page }}</a>
+                        </div>
+                    {% endfor %}
                 </td>
                 <td class="about">
                     <div>
