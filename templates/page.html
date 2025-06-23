@@ -5,7 +5,21 @@
 </head>
 <body>
     <h1>{{ title }}</h1>
-    <pre style="white-space: pre-wrap; word-wrap:break-word;">{{ content }}</pre>
+    <table>
+            <tr>
+                <td class="content">
+                    <h1>Posts</h1>
+                    <pre style="white-space: pre-wrap; word-wrap:break-word;">{{ content }}</pre>
+                </td>
+                <td class="about">
+                    <div>
+                        <img style="height: 150px;" src="{{ url_for('static',filename='pics/{}.png'.format(title)) }}">
+                    </div>
+                </td>
+            </tr>
+        </table>
+
     <p><a href="{{ url_for('index') }}"> Back to index</a></p>
 </body>
 </html>
+
