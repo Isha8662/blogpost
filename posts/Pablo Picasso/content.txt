@@ -1,20 +1,7 @@
 Another artist work that I have grown fond of is Pablo Picasso. His style of shifting styles and emotions through paint created memorable images and movements. Picasso was mainly known for creating works with classical realism and cubism, breaking down objects and people into fragmented, abstract forms. The bold shapes and distorted faces, created a sense of search within his paintings. His personal life was filled with relationships, politics, and war, and somehow, all of it made its way into the canvas in ways that were not immediately obvious. Picasso's work makes the viewer feel confused, intrigued, and even disturbed, which encourages the viewer to look and think deeper. 
 
-
 Since I have brought up Cubism, I think it makes sense to start with one of Picasso's most well-known works in that style, Les Demoiselles d'Avignon. This painting, completed in 1907, broke traditional norms of perspective and beauty. At first glance, it looks chaotic, five women, with jagged bodies and faces influenced by African masks and Iberian sculpture. Picasso was challenging how we see people, how we portray the human form, and what we consider "beautiful." The women aren't painted to look elegant, they are almost aggressive. It wasn't about painting women attractive anymore, it was about showing something unusual for the time, a strong woman. The painting marked the start of a whole new movement, and it's easy to forget how unique it was at the time as abstract art has now become the norm.
 
 Another work I want to talk about is Guernica, arguably Picasso's most emotionally powerful painting. Created in 1937, it was his response to the bombing of the town of Guernica during the Spanish Civil War. Although the painting has monochrome and quiet colors, it is so loud in emotion. Picasso didn't need to paint blood to show violence. He used shape, distortion, and symbolism to make the viewer feel the devastation. It's easy to look at it and feel overwhelmed, but when you sit with it, you start to realize how much of Picasso's own anger, grief, and fear was poured into it. 
 
 An aspect of Piccaso's work that stays with me is the feeling that he never painted just for the sake of painting, he painted to explore, to rebel, to mourn, and sometimes, just to experiment. Whether it was a still life, a portrait, or a political piece, his work always seemed to carry layers beneath the surface, where you have to dig through to find the true meaning.
-
-
-
-REMEMBER!!!!!
-Now, in order to be eligible for the Athena Award :athena-arrow:, you must have a detailed and descriptive README your GitHub repo. Doesn't have to be a MLA-formatted essay, but it should have the following:
-
-    What your project is/does (and what it's called)
-    Why you made your project
-    How you made your project
-    What you struggled with and what you learned
-
-Again, this isn't supposed to be super formal. It's good practice and something that you can look back on to see where you started, and it's vital information a user needs so they can interact with your ship.If you don't have this information in your README, we'll reject it and ask you to make one (which you can then submit again). Good readme examples are like this slack bot that connects to your last.fm account or this sick directionless 3D printer (these are nice and technical, but we'd prefer you to add a bit :pinching_hand: more personality to yours).If you've already submitted a project whose README does not fit these requirements, you have about 1 business week to update it, or we'll reject it and you can resubmit. If you don't know how to make a README, click "add file" on your github repo :github: and name the file "README.md" and start typing! (edited)
