@@ -3,7 +3,7 @@
 <head>
     <title>{{ title }}</title>
 </head>
-<body>
+<body style="background-color: rgb(205, 225, 255);">
     <h1>{{ title }}</h1>
     <table>
             <tr>
@@ -14,12 +14,17 @@
                 <td class="about">
                     <div>
                         <img style="height: 150px;" src="{{ url_for('static',filename='pics/{}.png'.format(title)) }}">
+                        <img style="height: 150px;" src="{{ url_for('static',filename='pics/{} 1.png'.format(title)) }}">
                     </div>
                 </td>
             </tr>
         </table>
-
+<style>
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger
+}
+</style>
     <p><a href="{{ url_for('index') }}"> Back to index</a></p>
 </body>
 </html>
-

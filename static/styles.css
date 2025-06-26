@@ -10,19 +10,43 @@ html, body {
 }
 
 td { 
-    padding: 1em;
+    padding: 0;
 }
 
 .head {
-    background-color: bisque;
-    font-size: large;
-    text-align: center;
+    background-color: rgb(238, 238, 214);
+    height: 10rem;
+    width: 100%;
+    font-size:2rem;
+    text-align: center; 
+    vertical-align: center;
+    padding-top: 3.5rem;
+    margin-top: -0.5%;
 }
 
+.about {
+    background-color: rgb(198, 226, 195);
+    height: 74px;
+    width: 25%;
+    font-size:2rem;
+    text-align: center;
+    vertical-align: right;
+    border-left: 5%;
+}
 .content {
     width: 75%;
+    background-color: rgb(240, 216, 247);
+    height: 9 rem;
+    width:70%;
+    font-size:2rem;
+    text-align: center;
+    vertical-align: left;
 }
 
 .post {
-    border: 1px solid #f00;
+    border: 0px;
+}
+
+img {
+    vertical-align: top;
 }
