@@ -4,6 +4,7 @@ import os
 app = Flask(__name__)
 
 
+
 CONTENT_DIR = 'posts'
 
 @app.route('/')
@@ -25,6 +26,6 @@ def show_page(title):
     return render_template('page.html', title=title, content=content)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
 
 
